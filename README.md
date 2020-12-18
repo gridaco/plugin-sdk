@@ -1,4 +1,4 @@
-# plugins
+# develop plugins for bridged platform
 develop plugin for your own needs on bridged platform
 
 
