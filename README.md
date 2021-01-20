@@ -9,3 +9,7 @@ develop plugin for your own needs on bridged platform
 
 ### application implementation - with web technologies
 - application ui-included plugins works as iframe on our bridged application, and console platform. we provide react examples and guidelines, but any other frameworks such as vue, svelte are also possible. we provide configuration template for them.
+
+### Using bpm
+
+You can create and publish plugins for console, assistant, or bridged desktop using [bpm](https://github.com/bridgedxyz/bpm)
